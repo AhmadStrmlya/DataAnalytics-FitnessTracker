@@ -1,3 +1,5 @@
+##### a case study recommended from google data analytics course
+
 # Case Study Overview
 
 From this overview, I will only show what the scenario is and what recommendation I give for some of the team for Bellabeat. If you're interested in the whole process, I did it on source_code/Data Analysis Report.ipynb. To open the file, you can use google colab (a website) or you favorite python notebook IDE.
