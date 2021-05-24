@@ -1,6 +1,6 @@
 ###### a case study recommended from google professional data analytics course
 
-**The information below is just an overview** of what the case study is about and what recommendation I come up with. Check out the full analysis on the pdf that I've prodided, it's called "FitnessTrackerAnalysis.pdf"
+**The information below is just an overview** of what the case study is about and what recommendation I come up with. Check out the full analysis on the pdf that I've prodided, it's called "Fitness Tracker Analysis.html"
 
 ## Case Study Scenario
 
